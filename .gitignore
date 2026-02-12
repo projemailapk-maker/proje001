@@ -1,0 +1,16 @@
+# Build outputs
+/dist/
+/build/
+/__pycache__/
+*.spec
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+
+# Windows
+Thumbs.db
+Desktop.ini
